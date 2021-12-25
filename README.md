@@ -13,11 +13,14 @@ npm install
 ```sh
 node index.js
 ```
-Requirements:
 
-  Enable APIS and Services for your project.
-  Create a service account and download the key.
-  If you need to upload your files into a folder, you need the folder id.
+<h2>Requirements:</h2>
+
+<ol>
+  <li>Enable APIS and Services for your project.</li>
+  <li>Create a service account and download the key.</li>
+  <li>If you need to upload your files into a folder, you need the folder id.</li>
+</ol> 
 
 Follow these steps to get your folder id:
 
