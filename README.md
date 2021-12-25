@@ -1,11 +1,6 @@
 <h1 align="center">Welcome to gDrive Multiple File Upload 👋</h1>
-<p>
-  <a href="Documentation" target="https://github.com/ShanukJ/gDrive-Multiple-File-Upload/wiki">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-</p>
 
-> Multiple file upload into the google drive using google drive api and node js.
+> This is a simple script to upload Multiple files into google drive using google drive API and Nodejs
 
 ## Install
 
@@ -18,6 +13,18 @@ npm install
 ```sh
 node index.js
 ```
+Requirements:
+
+  Enable APIS and Services for your project.
+  Create a service account and download the key.
+  If you need to upload your files into a folder, you need the folder id.
+
+Follow these steps to get your folder id:
+
+  To find folder id, you need to provide permission to the service account user.
+  Share it with edit access and get the link to the folder.
+  You will see something like this: https://drive.google.com/drive/u/1/folders/xxxxxXXXXXXxxxxxxxXXXXXXX.
+  In this case folder id is xxxxxXXXXXXxxxxxxxXXXXXXX.
 
 ## Author
 
