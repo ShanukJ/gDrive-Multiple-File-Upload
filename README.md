@@ -1,9 +1,4 @@
 <h1 align="center">Welcome to gDrive Multiple File Upload 👋</h1>
-<p>
-  <a href="Documentation" target="https://github.com/ShanukJ/gDrive-Multiple-File-Upload/wiki">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-</p>
 
 > Multiple file upload into the google drive using google drive api and node js.
 
