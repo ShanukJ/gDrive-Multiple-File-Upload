@@ -14,7 +14,7 @@ npm install
 node index.js
 ```
 
-<h2>Requirements:</h2>
+<h2>Requirements</h2>
 
 <ol>
   <li>Enable APIS and Services for your project.</li>
@@ -22,12 +22,14 @@ node index.js
   <li>If you need to upload your files into a folder, you need the folder id.</li>
 </ol> 
 
-Follow these steps to get your folder id:
+<h2>Follow these steps to get your folder id</h2>
 
-  To find folder id, you need to provide permission to the service account user.
-  Share it with edit access and get the link to the folder.
-  You will see something like this: https://drive.google.com/drive/u/1/folders/xxxxxXXXXXXxxxxxxxXXXXXXX.
-  In this case folder id is xxxxxXXXXXXxxxxxxxXXXXXXX.
+<ul>
+  <li>To find folder id, you need to provide permission to the service account user.</li>
+  <li>Share it with edit access and get the link to the folder.</li>
+  <li>You will see something like this: https://drive.google.com/drive/u/1/folders/xxxxxXXXXXXxxxxxxxXXXXXXX.</li>
+  <li>In this case folder id is xxxxxXXXXXXxxxxxxxXXXXXXX.</li>
+</ul> 
 
 ## Author
 
